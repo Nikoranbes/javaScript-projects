@@ -1,0 +1,25 @@
+body {
+  background-color: #212121;
+  color: #fff;
+  font-family: sans-serif;
+}
+.container {
+  background-color: gray;
+  border-radius: 15px;
+  width: 500px;
+  margin: 200px auto;
+  padding: 10px;
+}
+h1 {
+  text-align: center;
+}
+#Time {
+  background-color: #212121;
+  width: 200px;
+  margin: 0 auto;
+  border-radius: 15px;
+  color: greenyellow;
+  text-align: center;
+  padding: 10px 0;
+  font-size: 1.5rem;
+}

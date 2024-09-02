@@ -1,0 +1,57 @@
+.container{
+    width: 100%;
+    max-width: 500px;
+    background-color: #212121;
+    color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    margin: 0 auto;
+    font-family: 'Poppins';
+}
+h1,h2,h3{
+    text-align: center;
+}
+.btn-div{
+    width: 100%;
+    max-width: 450px;
+    margin: 0 auto;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+    display: flex;
+    gap: 5px;
+    justify-content: center;
+}
+button{
+    border: 2px solid hsla(0, 0%, 30%, 0.200);
+    padding: 10px;
+    border-radius: 15px;
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+}
+
+#gray{
+    background-color: gray;
+}
+#orangered{
+    background-color: orangered;
+}
+#lightblue{
+    background-color: lightblue;
+}
+#greenyellow{
+    background-color: greenyellow;
+}
+#purple{
+    background-color: purple;
+}
+#yellow{
+    background-color: yellow;
+}
+#orange{
+    background-color: orange;
+}
+#palevioletred{
+    background-color: palevioletred;
+}
